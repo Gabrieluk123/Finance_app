@@ -25,19 +25,6 @@ O **Finance App** é uma aplicação web desenvolvida em Laravel que simula o co
 
 ---
 
-## 📷 Screenshots
-
-### Página de consulta
-![Consulta](screenshots/consulta.png)
-
-### Carteira
-![Carteira](screenshots/carteira.png)
-
-### Histórico de transações
-![Histórico](screenshots/historico.png)
-
----
-
 ## ⚙️ Instalação e Execução
 
 ```bash
